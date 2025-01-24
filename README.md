@@ -1,4 +1,4 @@
-### Simple flow modeling
+## Simple flow modeling
 
 This project aims to study a simple flow modeling. It includes:
 - Defining the assumptions
@@ -6,5 +6,5 @@ This project aims to study a simple flow modeling. It includes:
 - Working on the finite element method
 - Implementing a C++ code to provide a simple flow simulation
 
-### Authors
+## Authors
 A. Tonnoir, Q. Garot, Y. Ankoudy, S. Duquesnoy
